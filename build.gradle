@@ -37,7 +37,7 @@ dependencies {
     implementation 'javax.cache:cache-api:1.1.1'
     implementation 'org.ehcache:ehcache:3.10.8'
 
-    runtimeOnly 'com.h2database:h2:2.3.230'
+    runtimeOnly 'com.h2database:h2:2.3.232'
 
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
