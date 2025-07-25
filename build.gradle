@@ -49,7 +49,7 @@ dependencies {
     testImplementation("io.rest-assured:json-path:5.5.5")
     testImplementation("io.rest-assured:xml-path:5.5.5")
     testImplementation("org.assertj:assertj-core:3.27.3")
-    testImplementation("com.approvaltests:approvaltests:24.22.0")
+    testImplementation("com.approvaltests:approvaltests:25.0.23")
     testImplementation("com.larseckart:junit-tcr-extensions:1.0.0")
 }
 
