@@ -1,5 +1,7 @@
 # Theatrical Players Refactoring Kata
 
+[![test](https://github.com/LarsEckart/Enterprise-Theatrical-Players-Refactoring-Kata/actions/workflows/test.yml/badge.svg)](https://github.com/LarsEckart/Enterprise-Theatrical-Players-Refactoring-Kata/actions/workflows/test.yml)
+
 Imagine a company of theatrical players who go out to various events performing plays.
 Typically, a customer will request a few plays and the company charges them based on the size of the audience and the
 kind of play they perform.
