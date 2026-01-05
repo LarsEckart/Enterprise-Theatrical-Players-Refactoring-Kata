@@ -59,7 +59,7 @@ dependencies {
     }
     testImplementation("io.rest-assured:rest-assured-common:6.0.0")
     testImplementation("org.assertj:assertj-core:3.27.6")
-    testImplementation("com.approvaltests:approvaltests:26.0.0")
+    testImplementation("com.approvaltests:approvaltests:26.1.0")
     testImplementation("com.larseckart:junit-tcr-extensions:2.0.0")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
